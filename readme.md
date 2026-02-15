@@ -7,18 +7,17 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/USERNAME/Starscript" />
-  <img src="https://img.shields.io/github/forks/USERNAME/Starscript" />
-  <img src="https://img.shields.io/github/issues/USERNAME/Starscript" />
-  <img src="https://img.shields.io/github/license/USERNAME/Starscript" />
-  <img src="https://img.shields.io/github/last-commit/USERNAME/Starscript" />
+  <img src="https://img.shields.io/github/stars/toasty-dev/Starscript" />
+  <img src="https://img.shields.io/github/forks/toasty-dev/Starscript" />
+  <img src="https://img.shields.io/github/issues/toasty-dev/Starscript" />
+  <img src="https://img.shields.io/github/license/toasty-dev/Starscript" />
+  <img src="https://img.shields.io/github/last-commit/toasty-dev/Starscript" />
 </p>
 
 <!-- Info Chips -->
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Lua-blue" />
   <img src="https://img.shields.io/badge/Platform-Roblox-lightgrey" />
-  <img src="https://img.shields.io/badge/Automation-Star--Based-purple" />
   <img src="https://img.shields.io/badge/Status-Active%20Development-blue" />
 </p>
 
