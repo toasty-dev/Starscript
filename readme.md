@@ -65,26 +65,6 @@
 
 ---
 
-## Project Focus
-
-- Efficient boosting  
-- Smart resource usage  
-- Star-based automation  
-- Reliable hands-off operation  
-
----
-
-## Disclaimer
-
-This project is:
-- **Unofficial**
-- **Not affiliated with Roblox or Onett**
-- Use at your own risk
-
-Automation may violate game rules.
-
----
-
 ## Status
 
 - Actively developed  
